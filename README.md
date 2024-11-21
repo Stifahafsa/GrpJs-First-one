@@ -15,15 +15,6 @@ This repository contains a simple web project that demonstrates how to create a 
 - **HTML5**: For structuring the web content.
 - **CSS3**: For styling the layout and adding interactive hover effects.
 
-## Project Structure
-
-```
-Task1/
-├── index.html        # Main HTML file with the navigation bar and form
-├── style.css         # CSS file for navigation and form styles
-├── contact.css       # Additional styles for contact-specific pages
-└── README.md         # Project description and documentation
-```
 
 ## Features
 
